@@ -1,2 +1,6 @@
 # W266-Final-Project
-Collin Chee and Cameron Wright Automated Essay Scoring Project
+Automated Essay Scoring Project
+By: Collin Chee and Cameron Wright
+
+
+
